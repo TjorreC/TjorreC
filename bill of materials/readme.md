@@ -15,7 +15,7 @@
 |     10   |  Dupondraadjes  |           |     Nieuw     |       €4      |   1   |     €0    |
 |     11   |  Pinheaders  |            |     Nieuw     |       €2      |   1   |     €2    |
 |     12   |  Wielen  |      dia 32mm      |     Recup      |       €0       |   1   |     €0    |
-|     13   |  Frame  |      kunsttof plaatje     |     Recup      |       €0       |   1   |     €0    |
+|     13   |  Frame  |      HDPE plaatje     |     Recup      |       €0       |   1   |     €0    |
 |     14   |  Ijzerdraad  |           |     Recup      |       €0       |   1   |     €0    |
 |     15   |  Dubbelzijdige tape  |      Tesa Powerbond      |     Nieuw      |       €7       |   1   |     €7  |
 |        |    |            |           |              |   Totaal:   |    €34.69     |
