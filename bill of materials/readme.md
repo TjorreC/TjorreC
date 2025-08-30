@@ -17,4 +17,5 @@
 |     12   |  Wielen  |      dia 32mm      |     Recup      |       €0       |   1   |     €0    |
 |     13   |  Frame  |      kunsttof plaatje     |     Recup      |       €0       |   1   |     €0    |
 |     14   |  Ijzerdraad  |           |     Recup      |       €0       |   1   |     €0    |
-|     15   |  Dubbelzijdige tape  |            |     Recup      |       €0       |   1   |     €0    |
+|     15   |  Dubbelzijdige tape  |      Tesa Powerbond      |     Nieuw      |       €7       |   1   |     €7  |
+|        |    |            |           |              |   Totaal:   |    €34.69     |
