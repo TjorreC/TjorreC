@@ -10,7 +10,7 @@
 |     5    |  Batterij houder  |      18650 houder      |     Nieuw      |       €1.43       |   1   |     €1.43    |
 |     6    |  Hbrug  |      DRV8833      |     Nieuw      |       €1.37       |   1   |     €1.37    |
 |     7    |  Bleutooth  |      HC-05 original      |     Nieuw      |       €4.39       |   1   |     €4.39    |
-|     8    |  Weerstanden  |      1kΩ & 4 x 220Ω      |     Recup      |       €0       |   1   |     €0    |
+|     8    |  Weerstanden  |      1kΩ & 3 x 220Ω      |     Recup      |       €0       |   1   |     €0    |
 |     9    |  Knop |           |     Recup      |       €0       |   1   |     €0    |
 |     10   |  Dupondraadjes  |           |     Nieuw     |       €4      |   1   |     €0    |
 |     11   |  Pinheaders  |            |     Nieuw     |       €2      |   1   |     €2    |
