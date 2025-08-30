@@ -10,7 +10,7 @@ bestel alle componenten uit de bill of materials
 Test aan de hand van de proof of concepts alle componenten. Indien nodig kan je de datasheets raadplegen.
 
 ### stap 3
-Soldeer alle componenten op het printplaatje (gebruik plug in pinnen om ev kapotte componenten te vervangen). 
+Soldeer alle componenten op het printplaatje adhv het elektrisch schema (gebruik plug in pinnen om ev kapotte componenten te vervangen). 
 
 ### stap 4
 Neem het HDPE plaatje en bevestig de motoren (center motor op 1.5 cm van achterkant plaatje) via 2 kleine boringen links en rechts van elke motor en vervolgens te klemmen via ijzerdraad. Bevestig ook de sensor 1.5cm voor de voorkant van het plaatje via 1 boring aan elke kant van de sensor op dezelfde plek als de 2 uiterste gaatjes, vervolgens weer klemmen met ijzerdraad. mbv de plug in pins zijn deze makkelijk te koppelen aan het printplaatje.
