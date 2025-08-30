@@ -7,21 +7,21 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: Arduino Nano V3.0
 
-motors: 
+motors: GA12-N20
 
-h-bridge:
+h-bridge: DRV8833
 
-sensors:
+sensors: QTR-8A
 
-batteries:
+batteries: 18650 Li-ion
 
-wireless communication:
+wireless communication: bluetooth, HC-05
 
-distance sensor - motors:
+distance sensor - motors: 8.5cm
 
-weight:
+weight: 222g
 
-speed: 
+speed: ?
 
