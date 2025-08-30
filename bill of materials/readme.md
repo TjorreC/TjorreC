@@ -19,4 +19,5 @@
 |     14   |  Ijzerdraad  |           |     Recup      |       €0       |   1   |     €0    |
 |     15   |  Dubbelzijdige tape  |      Tesa Powerbond      |     Nieuw      |       €7       |   1   |     €7  |
 |     16   | Printplaatje   |            |     Recup      |      €0        |   1  |€0|   
+|     17  | Velcro sticker   |            |     Recup      |      €0        |   1  |€0| 
 ||||||Totaal:|    €34.69     |
