@@ -26,8 +26,14 @@ Bevestig de batterijhouder met dubbelzijdige tape op het HDPE-plaatje, met de ka
 Plaats het printplaatje bovenop de batterijhouder met behulp van de velcrostrip.
 Verbind de batterij met het printplaatje.
 
-
 ### stap 6
+Voorzie een steunpunt aan de voorzijde van de robot zodat het frame stabiel blijft en niet over de grond schuurt.
+Gebruik hiervoor een klein, glad object dat weinig wrijving veroorzaakt, bijvoorbeeld een stukje kunststof, een vilten dopje of een rond vijsje met een glad oppervlak.
+Bevestig dit steunpunt helemaal vooraan onder het HDPE-plaatje, gecentreerd tussen de twee wielen.
+Gebruik hiervoor dubbelzijdige tape om het tijdelijk vast te zetten, en eventueel een druppel superlijm om het stevig te fixeren.
+Het steunpunt moet stevig vastzitten, maar tegelijk glad genoeg zijn zodat de robot soepel over papier of gladde oppervlakken kan schuiven zonder vast te haken.
+
+### stap 7
 Upload het programma naar de Arduino Nano.
 Ontkoppel hiervoor de TX- en RX-pinnen van de HC-05-module, aangezien deze storingen kunnen veroorzaken.
 Maak na het uploaden verbinding met de HC-05-module via de seriële communicatie-app.
