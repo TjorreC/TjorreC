@@ -7,17 +7,30 @@ bestel alle componenten uit de bill of materials
 
 
 ### stap 2
-Test aan de hand van de proof of concepts alle componenten. Indien nodig kan je de datasheets raadplegen.
+Test alle componenten afzonderlijk aan de hand van de proof of concepts. Raadpleeg indien nodig de datasheets.
 
 ### stap 3
-Soldeer alle componenten op het printplaatje adhv het elektrisch schema (gebruik plug in pinnen om ev kapotte componenten te vervangen). 
+Soldeer de componenten op het printplaatje volgens het elektrisch schema. Gebruik plug-in pinnen zodat defecte componenten later eenvoudig vervangen kunnen worden. Vergeet geen plug-in pinnen te voorzien voor de aansluitingen van de motoren, batterij en sensor). 
 
 ### stap 4
-Neem het HDPE plaatje en bevestig de motoren (center motor op 1.5 cm van achterkant plaatje) via 2 kleine boringen links en rechts van elke motor en vervolgens te klemmen via ijzerdraad. Bevestig ook de sensor 1.5cm voor de voorkant van het plaatje via 1 boring aan elke kant van de sensor op dezelfde plek als de 2 uiterste gaatjes, vervolgens weer klemmen met ijzerdraad. mbv de plug in pins zijn deze makkelijk te koppelen aan het printplaatje.
+Bevestig de motoren op het HDPE-plaatje.
+Plaats elke motor gecentreerd op 1,5 cm van de achterzijde.
+Boor twee kleine gaatjes links en rechts van elke motor en klem ze vast met ijzerdraad.
+Bevestig de sensor op 1,5 cm van de voorzijde.
+Boor één gaatje links en rechts ter hoogte van de uiterste montagepunten.
+Klem de sensor vast met ijzerdraad.
+Via de plug-in pinnen kunnen motoren en sensor eenvoudig met het printplaatje verbonden worden.
 
 ### stap 5
-Gebruik de dubbelzijdige tape om de batterijhouder (met kabel en schakelaar naar achterkant gericht) te bevestigen op het plaatje. Bevestig het printplaatje op de batterij houder mbv de velcro sticker. koppel de batterij aan het printplaatje.
+Bevestig de batterijhouder met dubbelzijdige tape op het HDPE-plaatje, met de kabel en schakelaar naar de achterkant gericht en klepje naar boven.
+Plaats het printplaatje bovenop de batterijhouder met behulp van de velcrostrip.
+Verbind de batterij met het printplaatje.
 
 
 ### stap 6
-Upload het programma naar uw arduino nano. download de "Serial bluetooth terminal" app en maak zo verbinding met de HC-05 module (ontkoppel de tx en rx van de HC-05 module voor het uploaden, dit kan storing veroorzaken). De lijnvolger robot is nu klaar voor gebruik, hoe de parameters ingesteld moeten worden via de app staat uitgelegd in de gebruiksaanwijzing.
+Upload het programma naar de Arduino Nano.
+Ontkoppel hiervoor de TX- en RX-pinnen van de HC-05-module, aangezien deze storingen kunnen veroorzaken.
+Maak na het uploaden verbinding met de HC-05-module via de seriële communicatie-app.
+
+
+De lijnvolgerrobot is nu klaar voor gebruik. De instellingen en parameters kunnen aangepast worden volgens de gebruiksaanwijzing.
